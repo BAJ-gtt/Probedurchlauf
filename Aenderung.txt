@@ -1,3 +1,7 @@
 dies ist eine Änderung
 hefdswhf
 Test
+<<<<<<< HEAD
+=======
+kmn
+>>>>>>> refs/heads/test
